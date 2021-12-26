@@ -1,0 +1,134 @@
+,about,description
+0,Project_Charter,described in section 4.1.3.1. 
+1,Plan_Risk_Management_Stakeholder_Register,described in section 13.1.3.1. 
+2,Plan_Risk_Management_Enterprise_Environmental_Factors,described in section 2.1.5. 
+3,Plan_Risk_Management_Organizational_Process_Assets,described in section 2.1.4. 
+4,Definitions_Of_Risk_Probability_And_Impact," table 11-1 is an example of definitions of negative impacts that could be used in evaluating risk impacts related to four project objectives. table 11-1 illustrates both relative and numerical (in this case, nonlinear) approaches"
+5,Identify_Risks_Risk_Management_Plan,described in section 11.1.3.1. 
+6,Identify_Risks_Cost_Management_Plan,described in section 7.1.3.1. 
+7,Identify_Risks_Schedule_Management_Plan,described in section 6.1.3.1. 
+8,Quality_Management_Plan,described in section 8.1.3.1. 
+9,Human_Resource_Management_Plan,described in section 9.1.3.1. 
+10,Identify_Risks_Scope_Baseline,described in section 5.4.3.1. 
+11,Activity_Cost_Estimates,described in section 7.2.3.1. 
+12,Activity_Duration_Estimates,described in section 6.5.3.1. 
+13,Identify_Risks_Stakeholder_Register,described in section 13.1.3.1. 
+14,Procurement_Documents,defined in section 12.1.3.3. 
+15,Identify_Risks_Enterprise_Environmental_Factors,described in section 2.1.5. 
+16,Identify_Risks_Organizational_Process_Assets,described in section 2.1.4. 
+17,Perform_Qualitative_Risk_Analysis_Risk_Management_Plan,described in section 11.1.3.1. 
+18,Perform_Qualitative_Risk_Analysis_Scope_Baseline,described in section 5.4.3.1. 
+19,Perform_Qualitative_Risk_Analysis_Risk_Register,described in section 11.2.3.1. 
+20,Perform_Qualitative_Risk_Analysis_Organizational_Process_Assets,described in section 2.1.4. 
+21,Perform_Quantitative_Risk_Analysis_Risk_Management_Plan,described in section 11.1.3.1. 
+22,Perform_Quantitative_Risk_Analysis_Cost_Management_Plan,described in section 7.1.3.1. 
+23,Perform_Quantitative_Risk_Analysis_Schedule_Management_Plan,described in section 6.1.3.1. 
+24,Perform_Quantitative_Risk_Analysis_Risk_Register,described in section 11.2.3.1. 
+25,Perform_Quantitative_Risk_Analysis_Organizational_Process_Assets,described in section 2.1.4. 
+26,Control_Risks_Project_Management_Plan,described in section 4.2.3.1. 
+27,Work_Performance_Data,described in section 4.3.3.2. 
+28,Work_Performance_Reports,described in section 4.4.3.2. 
+29,Expected_Monetary_Value_Analysis,A common use of  this type of analysis is a decision tree analysis (Figure 11-16)
+30,Influence_Diagrams,as shown in Figure 11-7.
+31,Interview,Examples of three point estimates for cost are shown in Figure 11-13.
+32,Probability_And_Impact_Matrix,"in Figure 11-10,"
+33,Probability_Of_Achieving_Cost_And_Time_Objectives,"For instance, in Figure 11-17, the likelihood of achieving the cost estimate of US$41 million is about 12%"
+34,Risk,"risk is an uncertain event or condition that, if it occurs, has a positive or negative effect on one or more project objectives such as scope, schedule, cost, and quality."
+35,Risk_Breakdown_Structure,An example is shown in Figure 11-4.
+36,Plan_Risk_Management,"plan risk management is the process of defining how to conduct risk management activities for a project. the 
+key benefit of this process is it ensures that the degree, type, and visibility of risk management are commensurate 
+with both the risks and the importance of the project to the organization. the risk management plan is vital to 
+communicate with and obtain agreement and support from all stakeholders to ensure the risk management process 
+is supported and performed effectively over the project life cycle. the inputs, tools and techniques, and outputs of 
+this process are depicted in figure 11-2. figure 11-3 depicts the data flow diagram of the process.
+careful and explicit planning enhances the probability of success for other risk management processes. planning 
+is also important to provide sufficient resources and time for risk management activities and to establish an agreed-
+upon basis for evaluating risks. the plan risk management process should begin when a project is conceived and 
+should be completed early during project planning."
+37,Identify_Risks,"identify risks is the process of determining which risks may affect the project and documenting their 
+characteristics. the key benefit of this process is the documentation of existing risks and the knowledge and ability 
+it provides to the project team to anticipate events. the inputs, tools and techniques, and outputs of this process 
+are depicted in figure 11-5. figure 11-6 depicts the data flow diagram of the process.
+participants in risk identification activities may include the following: project manager, project team members, 
+risk management team (if assigned), customers, subject matter experts from outside the project team, end 
+users, other project managers, stakeholders, and risk management experts. while these personnel are often key 
+participants for risk identification, all project personnel should be encouraged to identify potential risks.
+identify risks is an iterative process, because new risks may evolve or is known as the project progresses 
+through its life cycle. the frequency of iteration and participation in each cycle will vary by situation. the format of 
+the risk statements should be consistent to ensure that each risk is understood clearly and unambiguously in order 
+to support effective analysis and response development. the risk statement should support the ability to compare 
+the relative effect of one risk against others on the project. the process should involve the project team so they can 
+develop and maintain a sense of ownership and responsibility for the risks and associated risk response actions. 
+stakeholders outside the project team may provide additional objective information."
+38,Perform_Qualitative_Risk_Analysis,"perform qualitative risk analysis is the process of prioritizing risks for further analysis or action by assessing 
+and combining their probability of occurrence and impact. the key benefit of this process is that it enables project 
+managers to reduce the level of uncertainty and to focus on high-priority risks. the inputs, tools and techniques, 
+and outputs of this process are depicted in figure 11-8. figure 11-9 depicts the data flow diagram of the process.
+perform qualitative risk analysis assesses the priority of identified risks using their relative probability or 
+likelihood of occurrence, the corresponding impact on project objectives if the risks occur, as well as other 
+factors such as the time frame for response and the organization risk tolerance associated with the project 
+constraints of cost, schedule, scope, and quality. such assessments reflect the risk attitude of the project 
+team and other stakeholders. effective assessment therefore requires explicit identification and management 
+of the risk approaches of key participants in the perform qualitative risk analysis process. where these risk 
+approaches introduce bias into the assessment of identified risks, attention should be paid to identifying bias 
+and correcting for it.
+establishing definitions of the levels of probability and impact can reduce the influence of bias. the time 
+criticality of risk-related actions may magnify the importance of a risk. an evaluation of the quality of the 
+available information on project risks also helps to clarify the assessment of the risk importance to the project.
+perform qualitative risk analysis is usually a rapid and cost-effective means of establishing priorities for plan 
+risk responses and lays the foundation for perform quantitative risk analysis, if required. the perform qualitative 
+risk analysis process is performed regularly throughout the project life cycle, as defined in the project risk 
+management plan. this process can lead into perform quantitative risk analysis (section 11.4) or directly into plan 
+
+risk responses (section 11.5)."
+39,Perform_Quantitative_Risk_Analysis,"perform quantitative risk analysis is the process of numerically analyzing the effect of identified risks on overall 
+project objectives. the key benefit of this process is that it produces quantitative risk information to support decision 
+making in order to reduce project uncertainty. the inputs, tools and techniques, and outputs of this process are 
+depicted in figure 11-11. figure 11-12 depicts the data flow diagram of the process.
+perform quantitative risk analysis is performed on risks that have been prioritized by the perform qualitative 
+risk analysis process as potentially and substantially impacting the project competing demands. the perform 
+quantitative risk analysis process analyzes the effect of those risks on project objectives. it is used mostly to 
+evaluate the aggregate effect of all risks affecting the project. when the risks drive the quantitative analysis, the 
+process may be used to assign a numerical priority rating to those risks individually.
+perform quantitative risk analysis generally follows the perform qualitative risk analysis process. in some 
+cases, it may not be possible to execute the perform quantitative risk analysis process due to lack of sufficient 
+data to develop appropriate models. the project manager should exercise expert judgment to determine the need 
+for and the viability of quantitative risk analysis. the availability of time and budget, and the need for qualitative or 
+quantitative statements about risk and impacts, will determine which method(s) to use on any particular project. 
+perform quantitative risk analysis should be repeated, as needed, as part of the control risks process to determine 
+if the overall project risk has been satisfactorily decreased. trends may indicate the need for more or less focus on 
+appropriate risk management activities."
+40,Plan_Risk_Responses,"plan risk responses is the process of developing options and actions to enhance opportunities and to reduce 
+threats to project objectives. the key benefit of this process is that it addresses the risks by their priority, inserting 
+resources and activities into the budget, schedule and project management plan as needed. the inputs, tools and 
+techniques, and outputs of this process are depicted in figure 11-18. figure 11-19 depicts the data flow diagram 
+of the process.
+the plan risk responses process follows the perform quantitative risk analysis process (if used). each risk 
+response requires an understanding of the mechanism by which it will address the risk. this is the mechanism 
+used to analyze if the risk response plan is having the desired effect. it includes the identification and assignment 
+of one person (an owner for risk response) to take responsibility for each agreed-to and funded risk response. risk 
+responses should be appropriate for the significance of the risk, cost-effective in meeting the challenge, realistic 
+within the project context, agreed upon by all parties involved, and owned by a responsible person. selecting the 
+optimum risk response from several options is often required.
+the plan risk responses process presents commonly used approaches to planning responses to the risks. 
+risks include threats and opportunities that can affect project success, and responses are discussed for each."
+41,Control_Risks,"control risks is the process of implementing risk response plans, tracking identified risks, monitoring residual 
+risks, identifying new risks, and evaluating risk process effectiveness throughout the project. the key benefit of 
+this process is that it improves efficiency of the risk approach throughout the project life cycle to continuously 
+optimize risk responses. the inputs, tools and techniques, and outputs of this process are depicted in figure 11-20. 
+figure 11-21 depicts the data flow diagram of the process.
+planned risk responses that are included in the risk register are executed during the life cycle of the project, but 
+the project work should be continuously monitored for new, changing, and outdated risks.
+the control risks process applies techniques such as variance and trend analysis, which require the use of 
+performance information generated during project execution. other purposes of the control risks process are to 
+determine if:
+•	 project assumptions are still valid,
+•	 analysis shows an assessed risk has changed or can be retired,
+•	 risk management policies and procedures are being followed, and
+•	 contingency reserves for cost or schedule should be modified in alignment with the current risk 
+assessment.
+control risks can involve choosing alternative strategies, executing a contingency or fallback plan, taking 
+corrective action, and modifying the project management plan. the risk response owner reports periodically to the 
+project manager on the effectiveness of the plan, any unanticipated effects, and any correction needed to handle 
+the risk appropriately. control risks also includes updating the organizational process assets include project 
+lessons learned databases and risk management templates, for the benefit of future projects."
